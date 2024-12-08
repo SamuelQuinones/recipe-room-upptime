@@ -9,10 +9,7 @@ sites:
 status-website:
   favicon: https://reciperoom.net/favicon.ico
   # faviconSvg: https://reciperoom.net/logo.svg
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.reciperoom.net
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/SamuelQuinones/recipe-room-upptime/refs/heads/master/assets/recipe-room-logo.svg
   name: Recipe Room
   introTitle: "**Recipe Room** is used to create, share, and store your collection of recipes!"
@@ -23,6 +20,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
