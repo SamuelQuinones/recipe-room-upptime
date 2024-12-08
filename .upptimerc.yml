@@ -7,15 +7,17 @@ sites:
     url: https://reciperoom.net
 
 status-website:
+  favicon: https://reciperoom.net/favicon.ico
+  # faviconSvg: https://reciperoom.net/logo.svg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.reciperoom.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/SamuelQuinones/recipe-room-upptime/refs/heads/master/assets/recipe-room-logo.svg
   name: Recipe Room
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  css: "@media (prefers-color-scheme: dark) { .logo > img { filter: invert(100%);} }"
+  introTitle: "**Recipe Room** is used to create, share, and store your collection of recipes!"
+  introMessage: This page reports on the status of Recipe Room and all associated services in real-time. Outages will also be reported with live updates. Made with [Upptime](https://github.com/upptime/upptime)
+  css: "@media (prefers-color-scheme:dark){.logo>img{filter:invert(100%)}}"
   navbar:
     - title: Status
       href: /
