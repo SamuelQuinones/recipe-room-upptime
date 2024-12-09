@@ -2,7 +2,7 @@
   {
     "name": "Recipe Room App",
     "url": "https://reciperoom.net",
-    "icon": "https://icons.duckduckgo.com/ip3/reciperoom.net.ico",
+    "icon": "https://reciperoom.net/favicon.ico",
     "slug": "recipe-room-app",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 851,
-    "timeWeek": 821,
-    "timeMonth": 821,
-    "timeYear": 821,
+    "time": 815,
+    "timeDay": 837,
+    "timeWeek": 815,
+    "timeMonth": 815,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   }
 ]
