@@ -14,13 +14,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/SamuelQuinones/recipe-room-upptime/refs/heads/master/assets/recipe-room-logo.svg
   name: Recipe Room
   introTitle: "**Recipe Room** is used to create, share, and store your collection of recipes!"
-  introMessage: This page reports on the status of Recipe Room and all associated services in real-time. Outages will also be reported with live updates. Made with [Upptime](https://github.com/upptime/upptime)
+  introMessage: This page reports on the statuses and potential ouages of Recipe Room and all associated services in real-time.
   css: "@media (prefers-color-scheme:dark){.logo>img{filter:invert(100%)}}"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
