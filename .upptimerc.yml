@@ -6,6 +6,8 @@ sites:
   - name: Recipe Room App
     url: https://reciperoom.net
     icon: https://reciperoom.net/favicon.ico
+  - name: Recipe Room Data Service
+    url: $SERVICE_HEALTH_URL
 
 status-website:
   favicon: https://reciperoom.net/favicon.ico
