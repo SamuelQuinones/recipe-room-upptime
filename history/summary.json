@@ -22,17 +22,19 @@
     "url": "$SERVICE_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "recipe-room-data-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 146,
-    "timeWeek": 166,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 239,
+    "timeDay": 111,
+    "timeWeek": 155,
+    "timeMonth": 239,
+    "timeYear": 239,
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   }
 ]
