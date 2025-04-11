@@ -1,7 +1,7 @@
 url: $SERVICE_HEALTH_URL
 status: up
 code: 200
-responseTime: 200
-lastUpdated: 2025-04-10T23:23:30.055Z
+responseTime: 282
+lastUpdated: 2025-04-11T23:21:27.809Z
 startTime: 2025-03-10T15:08:31.316Z
 generator: Upptime <https://github.com/upptime/upptime>
