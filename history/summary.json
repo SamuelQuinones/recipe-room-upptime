@@ -4,7 +4,7 @@
     "url": "https://reciperoom.net",
     "icon": "https://reciperoom.net/favicon.ico",
     "slug": "recipe-room-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 2477,
     "timeYear": 2277,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-08-23": 20,
       "2025-08-01": 25,
       "2025-07-12": 20
